@@ -7,7 +7,7 @@ ARLE is an interdisciplinary project, consisting of a structured team. This comp
 
 # Competition Structure
 ## Week 1 :Basic Python programming and github 
-### [stage 1: Ubuntu Installation](https://hackernoon.com/installing-ubuntu-18-04-along-with-windows-10-dual-boot-installation-for-deep-learning-f4cd91b58557?fbclid=IwAR092SkheHRSPX5aEla6-tvrQ6ogqnS92AbVTzmdscbnK0xZZlnJa3EwPWk)
+#### [stage 1: Ubuntu Installation](https://hackernoon.com/installing-ubuntu-18-04-along-with-windows-10-dual-boot-installation-for-deep-learning-f4cd91b58557?fbclid=IwAR092SkheHRSPX5aEla6-tvrQ6ogqnS92AbVTzmdscbnK0xZZlnJa3EwPWk)
 To go to next stage add screenshots of your progress in a folder named "w1_s1" and upload it in your github repository(private) and ......
 #### [stage 2](https://www.youtube.com/watch?v=xuB1Id2Wxak&list=PL9ooVrP1hQOGwtQOt8ZBlVjFlI-9Vr5hx&index=1&fbclid=IwAR1J2wO3D5A6up6dKqYPuCl6phdbOuWUXiRSknGFTGdtqzciylUi4aD5UYc)
 #### [stage 3] locked
