@@ -6,11 +6,12 @@ Earlier know as Library bot, is a 4i lab project, being developed for managing b
 ARLE is an interdisciplinary project, consisting of a structured team. This compition is meant for creating the same. Allthough there will be dedicated team members for different modules the content in this compition is madatory for all to complete.
 
 # Competition Structure
+create a github account and a private repository "arle competition 2019" and add your weekly progress.
 ## Week 1 :Basic Python programming and github 
 #### [stage 1: Ubuntu Installation](https://hackernoon.com/installing-ubuntu-18-04-along-with-windows-10-dual-boot-installation-for-deep-learning-f4cd91b58557?fbclid=IwAR092SkheHRSPX5aEla6-tvrQ6ogqnS92AbVTzmdscbnK0xZZlnJa3EwPWk)
-To go to next stage add screenshots of your progress in a folder named "w1_s1" and upload it in your github repository(private) and ......
-#### [stage 2](https://www.youtube.com/watch?v=xuB1Id2Wxak&list=PL9ooVrP1hQOGwtQOt8ZBlVjFlI-9Vr5hx&index=1&fbclid=IwAR1J2wO3D5A6up6dKqYPuCl6phdbOuWUXiRSknGFTGdtqzciylUi4aD5UYc)
-#### [stage 3] locked
+Add screenshots of your progress in a folder named "w1_s1" and upload it in your github repository(private)
+#### [stage 2: git & github](https://www.youtube.com/watch?v=HVsySz-h9r4&fbclid=IwAR2FFk34aC98E2XloszIIbM0mBaLkS_nXTR28I7Cj87Wo-YqBSmVjHwrIyo)
+#### [stage 3:basics on python](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.codecademy.com%2Flearn%2Flearn-python%3Ffbclid%3DIwAR092SkheHRSPX5aEla6-tvrQ6ogqnS92AbVTzmdscbnK0xZZlnJa3EwPWk&h=AT0ySoXUFW_OsJ_BJp-D_IE3R5K-NqzEgAaqgyxZqQzIaTO-GFxfTcUKGqpXmz8pUMVyYIJ8e7WrEBbAtT5bcmsEC5sKukLJrcqrfIHY2FdQMvvpjsQEMhWtG0bxng)
 #### Quiz 1
 ## week 2 : 
 #### [stage 1] locked
@@ -27,5 +28,5 @@ To go to next stage add screenshots of your progress in a folder named "w1_s1" a
 #### [stage 2] locked
 #### [stage 3] locked
 #### Quiz 4
-For evaluation you are required to create your own private github repository, After every stage you need to update this repository. 
+
 
