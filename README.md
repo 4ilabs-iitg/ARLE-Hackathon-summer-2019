@@ -4,10 +4,10 @@ Earlier know as Library bot, is a 4i lab project, being developed for managing b
 
 # TEAM 
 ARLE is an interdisciplinary project, consisting of a structured team. This compition is meant for creating the same. Allthough there will be dedicated team members for different modules the content in this compition is madatory for all to complete. 
+Create a github account and a private repository "arle competition 2019" and add your weekly progress.
 folder name should be in format "w1_s2" for week 1 stage 1. You have to add some proof of your work done for example screenshots, certificates, custom code or ros files.
 
 # Competition Structure
-create a github account and a private repository "arle competition 2019" and add your weekly progress.
 ## Week 1 :Basic Python programming and github 
 #### [stage 1: Ubuntu Installation](https://hackernoon.com/installing-ubuntu-18-04-along-with-windows-10-dual-boot-installation-for-deep-learning-f4cd91b58557?fbclid=IwAR092SkheHRSPX5aEla6-tvrQ6ogqnS92AbVTzmdscbnK0xZZlnJa3EwPWk)
 #### [stage 2: git & github](https://www.youtube.com/watch?v=HVsySz-h9r4&fbclid=IwAR2FFk34aC98E2XloszIIbM0mBaLkS_nXTR28I7Cj87Wo-YqBSmVjHwrIyo)
