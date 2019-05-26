@@ -10,8 +10,7 @@ Earlier know as Library Bot, is a 4i lab project, being developed for managing b
 ARLE is an interdisciplinary project, which requires recuitment each year. This competition is mandatory for those who want to join the team.
 
 1. Create a github account and a private repository "ARLE Hackathon 2019". ([how to?](https://help.github.com/en/articles/create-a-repo))
-2. Create a folder for each week. You have to add proof of your work done for example screenshots, certificates, custom code or   
-   ros files.
+2. Create a folder for each week. You have to add proof of your work done for example screenshots, certificates, custom code or ros files.
 3. Add 4ilabs-iitg as collaborator. ([how to?](https://stackoverflow.com/questions/7920320/adding-a-collaborator-to-my-free-github-account))
 4. Fill [this form](https://forms.gle/zRVEVG8h1VXM3np18) when you complete a week. 
 
