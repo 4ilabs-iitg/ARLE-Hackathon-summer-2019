@@ -1,4 +1,7 @@
-![arle_logo](arlelogo.png)
+<p align="center">
+    <img src="arlelogo.png">
+</p>
+
 # ARLE (Autonomous Robot for Library Enhancement)
 Earlier know as Library Bot, is a 4i lab project, being developed for managing books in the institute library of Indian Institute of Technology, Guwahati. ARLE is aimed to be the first autonomous ground robot that is to be designed and developed by IITG students. 
 
