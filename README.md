@@ -36,6 +36,11 @@ Assignment will be added on 27 May. Put a single .py file in Week 1 folder.
 
 
 ## Week 2 : Online Course on Robotics Basics
+
+#### [Artificial Intelligence for robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
+    
+This is a lengthy course, complete atleast till 4th.
+
 ## Week 3 : Introduction to ROS ( Robotics Operating System) 
 ## Week 4 : Basics of Self Driving using Turtle Bot 3
 
