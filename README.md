@@ -42,6 +42,9 @@ Assignment will be added on 27 May. Put a single .py file in Week 1 folder.
 This is a lengthy course, complete atleast till 4th.
 
 ## Week 3 : Introduction to ROS ( Robotics Operating System) 
+
+####[ROS tutorials](http://wiki.ros.org/ROS/Tutorials)
+
 ## Week 4 : Basics of Self Driving using Turtle Bot 3
 
 
