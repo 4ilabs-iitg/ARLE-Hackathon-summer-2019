@@ -32,7 +32,7 @@ Create the repo as mentioned above.
 
 #### [Python Basics](https://www.codecademy.com/learn/learn-python-3)
 
-Assignment will be added on 27 May. Put a single .py file in Week 1 folder. 
+Assignment time has been extended to 27th June. Put a single .py file in Week 1 folder. 
 
 
 ## Week 2 : Online Course on Robotics Basics
@@ -50,5 +50,11 @@ Learning ROS is essential for developing arle as the current model is based on R
 1.1(beginner level) and 1.2(intermidiate level) is to be done.
 
 ## Week 4 : Basics of Self Driving using Turtle Bot 3
+
+#### [Hands on with turtle bot 3](http://emanual.robotis.com/docs/en/platform/turtlebot3/overview/?fbclid=IwAR1k32z_nAfHsGCtsi5ubhAopOspSEx_Dq9mwSD2r-rCwUedgIS8exuMW8s#turtlebot)
+Try out different experiments/simulations on turtle bot 3 using concepts that you have learnt in previous 3 weeks.
+
+Document all your work properly!
+
 
 
